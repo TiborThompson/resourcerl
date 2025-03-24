@@ -21,7 +21,7 @@ ResourceRL implements a Proximal Policy Optimization (PPO) reinforcement learnin
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/resourcerl.git
+   git clone https://github.com/TiborThompson/resourcerl.git
    cd resourcerl
    ```
 
